@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Udoh Timothy
 ====================================================================================================================================
 
-I've been learning frontend development since January 2022, over these period I have great understanding of HTML, CSS and JavaScript and currently learning JavaScript React framework and Tailwind CSS. Worked on multiple projects where I demonstrated my skills overtime. My past projects and progress can be viewed in my repositories.
+I started learning frontend development in January 2022, After I lost interest in Backend development where I learnt python and Django and because I was more of a visual person (Graphic designer) backend was really helping my creative mind  over these period I have great understanding of HTML, CSS and JavaScript and currently learning JavaScript React framework and Tailwind CSS. Worked on multiple projects where I demonstrated my skills overtime. My past projects and progress can be viewed in my repositories.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [udohtimothy627@gmail.com](mailto:udohtimothy627@gmail.com)
