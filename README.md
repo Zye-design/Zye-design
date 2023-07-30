@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Udoh Timothy
 ====================================================================================================================================
 
-I started learning frontend development in January 2022, After I lost interest in Backend development where I learnt python and Django and this was because I was more of a visual person (Graphic designer) backend wasn't really helping my creative mind However over these period I have great understanding of HTML, CSS and JavaScript and currently Advancing my skills in JavaScript React framework and Tailwind CSS. Worked on multiple projects where I demonstrated my skills overtime. My past projects and progress can be viewed in my repositories.
+I started learning frontend development in January 2022, After I gained background knowledge in Backend development where I learnt python and Django and this was because I want to be a fullstack developer and enhance my creative mind. However over these period I have great understanding of HTML, CSS and JavaScript and currently Advancing my skills in JavaScript React framework, Tailwind CSS, Node.js, python, SQL, containers w/dockers, kubernetes & openshift, microservices and serverless App development etc. Worked on multiple projects where I demonstrated my skills overtime. My past projects and progress can be viewed in my repositories.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [udohtimothy627@gmail.com](mailto:udohtimothy627@gmail.com)
-* 🧠  I'm learning JavaScript React framework and Tailwind CSS
-* 🤝  I'm open to collaborating on E-COMMERCE APPS, LOGISTICS APPS, PAYMENT MANAGEMENT APPS And other frontend development projects.
+* 🧠  I'm learning Node.js, python, SQL, containers w/dockers, kubernetes & openshift, microservices and serverless App development
+* 🤝  I'm open to collaborating on E-COMMERCE APPS, LOGISTICS APPS, PAYMENT MANAGEMENT APPS And other fullstack development projects.
 * ⚡  Interested in financial technologies and Clean Energy
 
 ### Skills
